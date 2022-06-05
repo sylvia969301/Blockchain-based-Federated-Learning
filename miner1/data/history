@@ -1,0 +1,8 @@
+admin.peers
+eth.accounts
+admin.nodeInfo
+eth.syncing()
+web3.eth.syncing()
+web3.eth.syncing
+admin.addPeer("enode://75563c1de7fa4bbb451badfc5a0732825155731023dfa56a5f1ac56ea801ec5fc4f9983ba96dabc56e6722c1eebec2d7520cc54626299d2472b1bc282beb544a@127.0.0.1:30305")
+clique.proposals
