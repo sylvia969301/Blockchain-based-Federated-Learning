@@ -1,4 +1,4 @@
-### Desciption :
+### Description :
 - This project used Flower, Go Ethereum, Web3, IPFS, Socket, Digital signature to implement <b>Blockchain-based federated learning</b>
 ---
 - 執行順序：
